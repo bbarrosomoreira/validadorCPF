@@ -31,8 +31,8 @@ The API returns different responses based on the first digit of the CPF:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-user/mock-receita-api.git
-cd mock-receita-api
+git clone https://github.com/bbarrosomoreira/validadorCPF.git
+cd validadorCPF
 
 # Run with Maven
 ./mvnw spring-boot:run
@@ -69,8 +69,8 @@ A resposta da API varia conforme o dígito inicial do CPF informado:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/mock-receita-api.git
-cd mock-receita-api
+git clone https://github.com/bbarrosomoreira/validadorCPF.git
+cd validadorCPF
 
 # Rode com Maven
 ./mvnw spring-boot:run
